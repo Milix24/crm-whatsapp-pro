@@ -1,2 +1,2 @@
-# crm-whatsapp-pro
+# crm-whatsapp-Lite
 Mini CRM para clientes de WhatsApp
